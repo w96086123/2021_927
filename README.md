@@ -28,7 +28,7 @@ This is a  ` test `
 - [ ] 3rd job
 - [ ] 4th work
 
-Emphasis, aka *italics*, with asterisks or underscores
+Emphasis, aka *italics*, with *asterisks* or *underscores*
 
 Strong emphasis, aka bold, with **asterisks** or **underscores.**
 
