@@ -49,3 +49,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
     2.2nd
 
 4.And another item.
+
+- [] todo list
+- [] 2nd things
+
+# python code
+
+```python
+s="Python syntax highlighting"
+print s
+```
