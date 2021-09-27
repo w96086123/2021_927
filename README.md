@@ -30,4 +30,4 @@ Strong emphasis, aka bold, with **asterisks** or **underscores.**
 
 Combined emphasis with **asterisks and underscores.**
 
-Strikethrough uses two tildes. __Scratch this.__
+Strikethrough uses two tildes. ~~Scratch this.~~
