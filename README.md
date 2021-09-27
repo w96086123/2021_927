@@ -66,3 +66,22 @@ print s
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+Colons can be used to align columns.
+
+| Tables        | Are                   | Cool                   |
+| :------------ | :-------------------- | :--------------------- |
+| col 3 is      | <center>right-aligned | <p align='right'>$1600 |
+| col 2 is      | <center>centered      | <p align='right'>$12   |
+| zebra stripes | <center>are neat      | <p align='right'> $1   |
+
+There must be at least 3 dashes sparating each header cell.
+
+The outer pipes (|) are optional, and you don't need to make the
+
+raw Markdown line up prettily. You can also use inline Markdown.
+
+| Markdown | less      | pretty     |
+| :------- | :-------- | :--------- |
+| still    | `renders` | **nicely** |
+| 1        | 2         | 3          |
