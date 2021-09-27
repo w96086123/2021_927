@@ -36,19 +36,21 @@ Combined emphasis with **asterisks and underscores.**
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-1.First ordered list item
+1. First ordered list item
 
-2.Another item
+2. Another item
 
-    Unordered sub-list.
+   * Unordered sub-list.
 
-3.Actual numbers don't matter, just that it's a number
+3. Actual numbers don't matter, just that it's a number
 
-    1.Order sub-list
+   1. Order sub-list
+   2. 2nd
 
-    2.2nd
-
-4.And another item.
+4. And another item.
+    ...* note 1
+    ...* note 2
+    *** note 3
 
 - [ ] todo list
 - [ ] 2nd things
