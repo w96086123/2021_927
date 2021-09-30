@@ -40,7 +40,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 2. Another item
 
-   * Unordered sub-list.
+   Unordered sub-list.
 
 3. Actual numbers don't matter, just that it's a number
 
@@ -49,11 +49,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 4. And another item.
    
-    ...* note 1
+    note 1
 
-    ...* note 2
+    note 2
 
-    *** note 3
+    note 3
 
 - [ ] todo list
 - [ ] 2nd things
