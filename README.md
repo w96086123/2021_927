@@ -40,7 +40,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 2. Another item
 
-   * Unordered sub-list.
+   Unordered sub-list.
 
 3. Actual numbers don't matter, just that it's a number
 
@@ -49,11 +49,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 4. And another item.
    
-    ...* note 1
+    note 1
 
-    ...* note 2
+    note 2
 
-    *** note 3
+    note 3
 
 - [ ] todo list
 - [ ] 2nd things
@@ -90,6 +90,7 @@ raw Markdown line up prettily. You can also use inline Markdown.
 | :------- | :-------- | :--------- |
 | still    | `renders` | **nicely** |
 | 1        | 2         | 3          |
+<<<<<<< HEAD
 
 | 任務  |      說明      | 需時  | 前置  |
 | :---: | :------------: | :---: | :---: |
@@ -104,3 +105,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 |   9   |    系統測試    |  25   |   6   |
 |  10   |   使用者訓練   |  20   |  7,8  |
 |  11   |   使用者測試   |  25   | 9,10  |
+=======
+>>>>>>> 628a54df23cd3d2aa7569d4c987fc01bcfa18002
