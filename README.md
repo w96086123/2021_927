@@ -105,5 +105,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 |   9   |    系統測試    |  25   |   6   |
 |  10   |   使用者訓練   |  20   |  7,8  |
 |  11   |   使用者測試   |  25   | 9,10  |
-=======
 
+
+![image](https://github.com/w96086123/2021_927/blob/main/甘特圖.png "imgae")
