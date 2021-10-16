@@ -17,4 +17,5 @@
 ![image](https://github.com/w96086123/2021_927/blob/main/甘特圖.png "imgae")
 
 
+![image](https://github.com/w96086123/2021_927/blob/main/PERT.PNG "imgae")
 
